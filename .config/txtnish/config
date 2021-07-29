@@ -1,4 +1,4 @@
 nick="edu"
 twturl="edukv.me/twtxt.txt"
-twtfile="~/twtxt/edukv.me/twtxt.txt"
+twtfile="/home/edu/twtxt/edukv.me/twtxt.txt"
 disclose_identity="1"
